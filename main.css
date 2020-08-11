@@ -1,0 +1,9 @@
+*{
+    background: black;
+}
+
+h1,h2,p{
+    display:flex;
+    justify-content: center;
+    color:white;
+}
